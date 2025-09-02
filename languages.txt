@@ -5,3 +5,4 @@ MATLAB
 Java
 Numpy
 Verilog
+Rust
